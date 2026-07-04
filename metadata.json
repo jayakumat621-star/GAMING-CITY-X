@@ -1,0 +1,6 @@
+{
+  "name": "Gaming City X",
+  "description": "Premium Android offline games tracker under 300MB with in-app direct download, real-time release dates, major version updates, and pre-registration notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
